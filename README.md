@@ -1,5 +1,5 @@
 ## Olá, bem vindo 👋👋
-Estou sempre em busca de aprender coisa novas e de novos desafios!!!
+Estou sempre em busca de aprender coisas novas e de novos desafios!!!
 <img align="right" heigth="250" width="250" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 
 
