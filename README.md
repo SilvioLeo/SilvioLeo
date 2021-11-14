@@ -10,8 +10,8 @@ namespace SilvioLeo{
   string areaDeConhecimento = "Cursando Análise e Desenvolvimento de Sistemas";
   string instituicao = "Faculdade Católica Imaculada Conceição do Recife";
  
-  string[] aprendendo = new aprendendo("Java", "C#");
-  string[] languages = new languages("Java", "C#", "JavaScript", "HTML", "Css"); 
+  string[] aprendendo = new string[]{"Java", "C#"};
+  string[] languages = new string[]{"Java", "C#", "JavaScript", "HTML", "Css"};
  }
 }
 ```
